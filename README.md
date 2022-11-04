@@ -11,3 +11,5 @@
 1. Write a code
 2. commit the change
 3. Make a pull request
+
+### Yes!
